@@ -2,7 +2,7 @@
 
 How to reach me
 ***
-[[LinkedIn](#https://www.linkedin.com/in/qinzhi-chen/)]
+[[LinkedIn](https://www.linkedin.com/in/qinzhi-chen/)]
 ___
 
 - 🔭 I’m currently working on becoming a Data Scientist
