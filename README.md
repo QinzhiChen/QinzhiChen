@@ -5,7 +5,7 @@ ___
 ___
 Analytical, tech-savvy, and resourceful problem solver and aspiring Data Scientist/Business Intelligence Analyst with a Bachelor’s in Information Science & Technology, a Master’s in Business Law, and Codeup Certification (670+ hours). United States Marine Corps Veteran with 8+ years of success in challenging arenas. Data-driven and award-winning leader with the skills needed to provide data-driven insights that empower decision-making. Bilingual in English/Mandarin. Proficient in Python, SQL, Tableau, and Microsoft Power BI. 
 ***
-Professional Experience 
+## Professional Experience 
 ___
 United States Marine Corps | New Bern, NC 
 Marine Corps Officer/Compliance Officer | June 2021 - June 2022
@@ -31,11 +31,16 @@ Marine Corps Officer/Logistic Specialist | June 2014 - September 2018
   - Supervised and operated 3 types of wheeled vehicles and equipment on diverse terrain while providing mission-critical support for 300+ team members and facilitated advanced mobility
   -	Served as the vehicle commander on combat logistics patrols and advised convoy members on potential threats during major service-level exercises involving up to 2,000+ personnel 
   -	Verified vehicles were loaded with the equipment needed to complete missions, ensured compliance with civilian and military safety standards, and multitasked effectively to perform routine maintenance and repairs
-  Core Competencies 
+## Core Competencies 
 ___
-Business Leadership, Data Science, Business/Data Analysis, Data Visualization, Applied Statistics, Machine Learning, Natural Language Processing. Data Storytelling, Agile/Waterfall Principles, Deep Learning, Marketing, Project Management, Problem-Solving, Strategic Planning, Decision Making, Compliance, Health & Safety, Communication Skills, Interpersonal Skills, Analytical Skills, Organizational Skills, Time Management, Multitasking Language Skills: Bilingual in English/Mandarin Technical Skills Microsoft Office, Microsoft Project, Python, SQL, Tableau, Microsoft Power BI, Matplotlib, MySQL, Pandas, NumPy, Seaborn, Spark, Git, Swift, TBMCS, AC2S 
+Business Leadership, Data Science, Business/Data Analysis, Data Visualization, Applied Statistics, Machine Learning, Natural Language Processing. Data Storytelling, Agile/Waterfall Principles, Deep Learning, Marketing, Project Management, Problem-Solving, Strategic Planning, Decision Making, Compliance, Health & Safety, Communication Skills, Interpersonal Skills, Analytical Skills, Organizational Skills, Time Management, Multitasking Language Skills: Bilingual in English/Mandarin
 ***
-Education/Certifications 
+## Technical Skills 
+___
+Microsoft Office, Microsoft Project, Python, SQL, Tableau, Microsoft Power BI, Matplotlib, MySQL, Pandas, NumPy, Seaborn, Spark, Git, Swift, TBMCS, AC2S 
+***
+## Education/Certifications 
+___
 Master of Art in Business Law, Washington University, St. Louis Law School, December 2022
 Bachelor of Science in Information Science & Technology, Pennsylvania State University, May 2018
 Bachelor of Science in Business Management & Marketing, Pennsylvania State University, May 2018
