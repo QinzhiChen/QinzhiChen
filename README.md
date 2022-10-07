@@ -1,7 +1,7 @@
 ___
 ## Qinzhi Chen
 ***
-[New Bern, NC] | [[LinkedIn](https://www.linkedin.com/in/qinzhi-chen/)] | [[email](qinzhichen@ymail.com)] 
+[New Bern, NC] | [[LinkedIn](https://www.linkedin.com/in/qinzhi-chen/)] | [[Email](qinzhichen@ymail.com)] 
 ___
 Analytical, tech-savvy, and resourceful problem solver and aspiring Data Scientist/Business Intelligence Analyst with a Bachelor’s in Information Science & Technology, a Master’s in Business Law, and Codeup Certification (670+ hours). United States Marine Corps Veteran with 8+ years of success in challenging arenas. Data-driven and award-winning leader with the skills needed to provide data-driven insights that empower decision-making. Bilingual in English/Mandarin. Proficient in Python, SQL, Tableau, and Microsoft Power BI. 
 ***
