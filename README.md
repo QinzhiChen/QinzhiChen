@@ -48,6 +48,7 @@ CodeUp Certification, November 2022
   -	Completed the 20-week, project-based course which provided 670+ hours of expert instruction in applied data science, and became accustomed to working with real-world messy data to deliver actionable insights 
   -	Recession Prediction Project - Obtained Federal Reserve Economic Data (FRED) and utilized Python, Structured Query Language, Matplotlib, Pandas, NumPy, machine learning libraries, probability, and statistics to predict the next recession 
   -	Developed a classification machine learning model that achieved a 96% accuracy and a 100% recall rate with the model having the capability of shortening the recession declaration process by up to 12 months 
+  
 Links Manager Certification | Mishap Investigation Certification | Risk Analysis Certification 
 Cybersecurity Certification | Operation Security Manager Certification 
 OSHA-30 General Industry Certification | Mishap Investigation Certification 
