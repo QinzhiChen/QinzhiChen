@@ -13,7 +13,7 @@ Marine Corps Officer/Compliance Officer | June 2021 - June 2022
   -	Performed authorized medical surveillance and maintained an over 90% military combat readiness rate which surpassed expectations
   -	Conducted risk assessments of all corporate-level functions while mandating compliance with state and federal regulations 
   -	Trusted to perform 15+ corporate-level investigations and took the initiative to implement 5+ new procedures to promote safety in the workplace
-  -	Awarded the United States Navy and Marine Corps Medal for outstanding performance and for having the best-managed program in the 2D Marine Aircraft Wing. 
+  -	Awarded the United States Navy and Marine Corps Achievement Medal for outstanding performance and for having the best-managed program in the 2D Marine Aircraft Wing. 
 ___
 United States Marine Corps | New Bern, NC 
 Marine Corps Officer/Talent Management Officer | June 2020 - June 2021
